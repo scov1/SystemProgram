@@ -1,0 +1,14 @@
+C:/Users/roman/source/repos/Times/Times/bin/Debug/Times.exe.config
+C:/Users/roman/source/repos/Times/Times/bin/Debug/Times.exe
+C:/Users/roman/source/repos/Times/Times/bin/Debug/Times.pdb
+C:/Users/roman/source/repos/Times/Times/obj/Debug/Times.csprojAssemblyReference.cache
+C:/Users/roman/source/repos/Times/Times/obj/Debug/Times.csproj.CoreCompileInputs.cache
+C:/Users/roman/source/repos/Times/Times/obj/Debug/Times.exe
+C:/Users/roman/source/repos/Times/Times/obj/Debug/Times.pdb
+/Users/seda/Downloads/HW0/Times/Times/bin/Debug/Times.exe.config
+/Users/seda/Downloads/HW0/Times/Times/bin/Debug/Times.exe
+/Users/seda/Downloads/HW0/Times/Times/bin/Debug/Times.pdb
+/Users/seda/Downloads/HW0/Times/Times/obj/Debug/Times.csprojAssemblyReference.cache
+/Users/seda/Downloads/HW0/Times/Times/obj/Debug/Times.csproj.CoreCompileInputs.cache
+/Users/seda/Downloads/HW0/Times/Times/obj/Debug/Times.exe
+/Users/seda/Downloads/HW0/Times/Times/obj/Debug/Times.pdb
