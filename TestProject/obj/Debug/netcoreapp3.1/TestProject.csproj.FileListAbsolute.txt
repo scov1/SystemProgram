@@ -1,0 +1,14 @@
+/Users/seda/Projects/TestProject/TestProject/bin/Debug/netcoreapp3.1/TestProject.deps.json
+/Users/seda/Projects/TestProject/TestProject/bin/Debug/netcoreapp3.1/TestProject.runtimeconfig.json
+/Users/seda/Projects/TestProject/TestProject/bin/Debug/netcoreapp3.1/TestProject.runtimeconfig.dev.json
+/Users/seda/Projects/TestProject/TestProject/bin/Debug/netcoreapp3.1/TestProject.dll
+/Users/seda/Projects/TestProject/TestProject/bin/Debug/netcoreapp3.1/TestProject.pdb
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.csprojAssemblyReference.cache
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.AssemblyInfoInputs.cache
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.AssemblyInfo.cs
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.dll
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.pdb
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.genruntimeconfig.cache
+/Users/seda/Projects/TestProject/TestProject/bin/Debug/netcoreapp3.1/Shape.dll
+/Users/seda/Projects/TestProject/TestProject/obj/Debug/netcoreapp3.1/TestProject.csproj.CopyComplete
