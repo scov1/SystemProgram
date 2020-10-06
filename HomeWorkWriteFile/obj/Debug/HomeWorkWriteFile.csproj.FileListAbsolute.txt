@@ -1,0 +1,6 @@
+/Users/seda/Projects/HomeWorkWriteFile/HomeWorkWriteFile/obj/Debug/HomeWorkWriteFile.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/HomeWorkWriteFile/HomeWorkWriteFile/bin/Debug/HomeWorkWriteFile.exe
+/Users/seda/Projects/HomeWorkWriteFile/HomeWorkWriteFile/bin/Debug/HomeWorkWriteFile.pdb
+/Users/seda/Projects/HomeWorkWriteFile/HomeWorkWriteFile/obj/Debug/HomeWorkWriteFile.exe
+/Users/seda/Projects/HomeWorkWriteFile/HomeWorkWriteFile/obj/Debug/HomeWorkWriteFile.pdb
+/Users/seda/Projects/HomeWorkWriteFile/HomeWorkWriteFile/obj/Debug/HomeWorkWriteFile.csprojAssemblyReference.cache
