@@ -1,0 +1,7 @@
+/Users/seda/Projects/Test1/Test1/bin/Debug/Test1.exe
+/Users/seda/Projects/Test1/Test1/bin/Debug/Test1.pdb
+/Users/seda/Projects/Test1/Test1/obj/Debug/Test1.csprojAssemblyReference.cache
+/Users/seda/Projects/Test1/Test1/obj/Debug/Test1.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/Test1/Test1/obj/Debug/Test1.exe
+/Users/seda/Projects/Test1/Test1/obj/Debug/Test1.pdb
+/Users/seda/Projects/Test1/Test1/obj/Debug/Test1.csproj.CopyComplete
