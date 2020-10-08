@@ -1,0 +1,6 @@
+/Users/seda/Projects/HomeWork7/HomeWork7/bin/Debug/HomeWork7.exe
+/Users/seda/Projects/HomeWork7/HomeWork7/bin/Debug/HomeWork7.pdb
+/Users/seda/Projects/HomeWork7/HomeWork7/obj/Debug/HomeWork7.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/HomeWork7/HomeWork7/obj/Debug/HomeWork7.exe
+/Users/seda/Projects/HomeWork7/HomeWork7/obj/Debug/HomeWork7.pdb
+/Users/seda/Projects/HomeWork7/HomeWork7/obj/Debug/HomeWork7.csprojAssemblyReference.cache
