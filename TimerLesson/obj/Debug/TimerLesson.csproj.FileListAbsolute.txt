@@ -1,0 +1,9 @@
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\bin\Debug\TimerLesson.exe.config
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\bin\Debug\TimerLesson.exe
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\bin\Debug\TimerLesson.pdb
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\obj\Debug\TimerLesson.csprojAssemblyReference.cache
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\obj\Debug\TimerLesson.Form1.resources
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\obj\Debug\TimerLesson.Properties.Resources.resources
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\obj\Debug\TimerLesson.csproj.GenerateResource.cache
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\obj\Debug\TimerLesson.exe
+C:\Users\ltk\source\repos\TimerLesson\TimerLesson\obj\Debug\TimerLesson.pdb
