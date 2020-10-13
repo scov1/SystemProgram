@@ -1,0 +1,7 @@
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\bin\Debug\TestProcess.exe.config
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\bin\Debug\TestProcess.exe
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\bin\Debug\TestProcess.pdb
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\obj\Debug\TestProcess.csprojAssemblyReference.cache
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\obj\Debug\TestProcess.csproj.CoreCompileInputs.cache
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\obj\Debug\TestProcess.exe
+C:\Users\seda8\Source\Repos\TestProcess\TestProcess\obj\Debug\TestProcess.pdb
