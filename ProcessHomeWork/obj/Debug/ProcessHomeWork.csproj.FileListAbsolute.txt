@@ -1,0 +1,7 @@
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\bin\Debug\ProcessHomeWork.exe.config
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\bin\Debug\ProcessHomeWork.exe
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\bin\Debug\ProcessHomeWork.pdb
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\obj\Debug\ProcessHomeWork.csprojAssemblyReference.cache
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\obj\Debug\ProcessHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\obj\Debug\ProcessHomeWork.exe
+C:\Users\seda8\Source\Repos\TestProcess\ProcessHomeWork\obj\Debug\ProcessHomeWork.pdb
