@@ -1,0 +1,6 @@
+/Users/seda/Projects/testEx/testEx/bin/Debug/testEx.exe
+/Users/seda/Projects/testEx/testEx/bin/Debug/testEx.pdb
+/Users/seda/Projects/testEx/testEx/obj/Debug/testEx.csprojAssemblyReference.cache
+/Users/seda/Projects/testEx/testEx/obj/Debug/testEx.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/testEx/testEx/obj/Debug/testEx.exe
+/Users/seda/Projects/testEx/testEx/obj/Debug/testEx.pdb
