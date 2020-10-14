@@ -1,0 +1,9 @@
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\bin\Debug\RegistryHomeWork.exe.config
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\bin\Debug\RegistryHomeWork.exe
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\bin\Debug\RegistryHomeWork.pdb
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\obj\Debug\RegistryHomeWork.csprojAssemblyReference.cache
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\obj\Debug\RegistryHomeWork.Form1.resources
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\obj\Debug\RegistryHomeWork.Properties.Resources.resources
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\obj\Debug\RegistryHomeWork.csproj.GenerateResource.cache
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\obj\Debug\RegistryHomeWork.exe
+C:\Users\ltk\source\repos\RegistryHomeWork\RegistryHomeWork\obj\Debug\RegistryHomeWork.pdb
