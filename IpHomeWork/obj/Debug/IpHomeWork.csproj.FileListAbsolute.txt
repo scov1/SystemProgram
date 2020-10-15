@@ -1,0 +1,6 @@
+C:\Users\ltk\source\repos\IpHomeWork\IpHomeWork\bin\Debug\IpHomeWork.exe.config
+C:\Users\ltk\source\repos\IpHomeWork\IpHomeWork\bin\Debug\IpHomeWork.exe
+C:\Users\ltk\source\repos\IpHomeWork\IpHomeWork\bin\Debug\IpHomeWork.pdb
+C:\Users\ltk\source\repos\IpHomeWork\IpHomeWork\obj\Debug\IpHomeWork.csprojAssemblyReference.cache
+C:\Users\ltk\source\repos\IpHomeWork\IpHomeWork\obj\Debug\IpHomeWork.exe
+C:\Users\ltk\source\repos\IpHomeWork\IpHomeWork\obj\Debug\IpHomeWork.pdb
