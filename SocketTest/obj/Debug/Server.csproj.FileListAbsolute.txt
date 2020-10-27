@@ -1,0 +1,6 @@
+C:\Users\ltk\source\repos\SocketTest\SocketTest\bin\Debug\SocketTest.exe.config
+C:\Users\ltk\source\repos\SocketTest\SocketTest\bin\Debug\SocketTest.exe
+C:\Users\ltk\source\repos\SocketTest\SocketTest\bin\Debug\SocketTest.pdb
+C:\Users\ltk\source\repos\SocketTest\SocketTest\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ltk\source\repos\SocketTest\SocketTest\obj\Debug\SocketTest.exe
+C:\Users\ltk\source\repos\SocketTest\SocketTest\obj\Debug\SocketTest.pdb
