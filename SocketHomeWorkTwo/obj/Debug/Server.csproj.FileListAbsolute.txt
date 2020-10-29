@@ -1,0 +1,6 @@
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\SocketHomeWorkTwo\bin\Debug\SocketHomeWorkTwo.exe.config
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\SocketHomeWorkTwo\bin\Debug\SocketHomeWorkTwo.exe
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\SocketHomeWorkTwo\bin\Debug\SocketHomeWorkTwo.pdb
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\SocketHomeWorkTwo\obj\Debug\SocketHomeWorkTwo.exe
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\SocketHomeWorkTwo\obj\Debug\SocketHomeWorkTwo.pdb
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\SocketHomeWorkTwo\obj\Debug\Server.csprojAssemblyReference.cache

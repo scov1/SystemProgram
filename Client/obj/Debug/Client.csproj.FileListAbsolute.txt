@@ -1,0 +1,9 @@
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\bin\Debug\Client.exe.config
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\bin\Debug\Client.exe
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\bin\Debug\Client.pdb
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\obj\Debug\Client.Form1.resources
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\obj\Debug\Client.exe
+C:\Users\ltk\source\repos\SocketHomeWorkTwo\Client\obj\Debug\Client.pdb
